@@ -1,2 +1,2 @@
-# MoonStormLauncher
-Launcher for MoonStorm Team
+# MoonStormUpdate
+Files for update MoonStorm Launcher
